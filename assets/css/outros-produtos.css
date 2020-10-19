@@ -1,4 +1,4 @@
-.outros-produtos{
+.outros-produtos {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -8,7 +8,7 @@
     background-color: var(--laranja);
 }
 
-.outros-produtos__titulo{
+.outros-produtos__titulo {
     color: var(--branco);
     font-size: 1.75rem;
     font-weight: 600;
